@@ -102,11 +102,8 @@ For questions about:
 - **Usage guidance** — Check individual README files
 - **Contributions** — Open an issue or submit a PR
 
-## 📄 License
+## 📄 License This dataset has been curated from satirical news sites and therefore cannot ethically or legally be used in any projects with commerical resale value. Academic and Non-profit NLP | LLM | Linguistics use only.
 
-[Specify license for documentation; note that linked sources retain their original licenses]
-
----
 
 **Last Updated**: July 24, 2026
 **Maintainer**: alyssanicoletech-cyberstar
