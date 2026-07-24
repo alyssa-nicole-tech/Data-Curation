@@ -102,7 +102,7 @@ For questions about:
 - **Usage guidance** — Check individual README files
 - **Contributions** — Open an issue or submit a PR
 
-## 📄 License: This dataset has been curated from private incorporated satirical news sites and perfromaing artists. It can only be used ethically and legally for Academic Research.
+## 📄 License: This dataset has been curated from private incorporated satirical news sites and public performing artists. It can only be used ethically and legally for Academic Research.
 
 **Last Updated**: July 24, 2026
 **Maintainer**: alyssanicoletech-cyberstar
