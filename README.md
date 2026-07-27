@@ -2,9 +2,16 @@
 
 📋 Overview
 
-This repository is a collection of media sources identified to improve Transformer model performance on sociologically complex language patterns. 
+This repository is a collection of media sources being used in an experiment to improve Transformer model performance on sociologically complex language patterns. 
 
-The signals include satire, irony, nuance, and professional communication. Each resource has been carefully selected for alignment with sociolinguistic and cognitive science foundations.
+The patterns in the dataset include satire, irony, nuance, and formality / standardization. 
+
+## 📚 Research Foundation
+
+This collection is grounded in:
+- **Linguistics research** — Study of complex language patterns and interpretation
+- **Cognitive science** — Understanding of human language comprehension and nuance
+- **NLP methodologies** — Best practices in training semantic technologies
 
 ## 📚 Types of Media Sources Included
 
@@ -15,20 +22,13 @@ The signals include satire, irony, nuance, and professional communication. Each 
 - **Multilingual sources** — Diverse language examples across different linguistic contexts
 - **Linguistic research materials** — Academic sources on language complexity and interpretation
 
- ## 📚 Research Foundation
-
-This collection is grounded in:
-- **Linguistics research** — Study of complex language patterns and interpretation
-- **Cognitive science** — Understanding of human language comprehension and nuance
-- **NLP methodologies** — Best practices in training semantic technologies
-
 ## 🚀 Getting Started
 
 ### Prerequisites
 - No special installation required — this is a curated collection of URL references
 - Access to the media sources (note: some may require authentication or subscription)
 
-### How to Navigate the Repository
+## How to Navigate the Repository
 
 1. **Browse URL Lists** — Each directory or file contains organized media source URLs
 2. **Review Methodology** — Examine the linguistics and cognitive science research references provided
