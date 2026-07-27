@@ -49,13 +49,13 @@ Repository location:
 
 ## 📝 Examples of Resources you will find:
 
-# Patterns in Irony 
+# Patterns in Ironic Language Use 
 - **Source**: [URL]
 - **Source Type**: News Satire Presentation
 - **Complexity Pattern**: Irony in events
 - **Methodology Note**: Useful for training models to recognize sarcastic criticism
 
-# Patterns in Formality
+# Patterns in Formal Language Use
 - **Source**: [URL]
 - **Source Type**: Media Presentation
 - **Complexity Pattern**: Implicit meaning in formal discourse
@@ -71,8 +71,7 @@ This dataset collection is designed for academics performing research on GenAI t
 - **Heuristic Evaluations** — Testing model performance on nuanced language patterns
 - **Performance Benchmarking** — Measuring acquisition of sociologically complex language understanding
 
-## 📄 License: This dataset has been curated from commercial news sites and public media figures. It can only be used ethically and legally used in Academic Research.
-
+## 📄 License: This dataset includes selections from commercial news sites and public media figures. It can only be used ethically and legally used for academic discovery purposes.
 ## ❓ FAQ
 
 **Q: How current are these sources?**
