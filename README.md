@@ -2,7 +2,7 @@
 
 📋 Overview
 
-This repository is a collection of raw media sources identified to improve Transformer model performance on sociologically complex language patterns. 
+This repository is a collection of media sources identified to improve Transformer model performance on sociologically complex language patterns. 
 
 The signals include satire, irony, nuance, and professional communication. Each resource has been carefully selected for alignment with sociolinguistic and cognitive science foundations.
 
