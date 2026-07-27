@@ -49,13 +49,13 @@ Repository location:
 
 ## 📝 Examples of Resources you will find:
 
-# Sociolinguistic Patterns: Ironic 
+# Patterns in Irony 
 - **Source**: [URL]
 - **Source Type**: News Satire Presentation
 - **Complexity Pattern**: Irony in events
 - **Methodology Note**: Useful for training models to recognize sarcastic criticism
 
-# Sociolinguistic Patterns : Formality
+# Patterns in Formality
 - **Source**: [URL]
 - **Source Type**: Media Presentation
 - **Complexity Pattern**: Implicit meaning in formal discourse
