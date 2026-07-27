@@ -2,7 +2,7 @@
 
 📋 Overview
 
-This repository is a collection of media sources being used in an experiment for Transformer model improvement on sociologically nuanced language patterns. 
+This repository is a collection of media sources being used in an experiment for Transformer improvement on sociologically nuanced language patterns. 
 
 The patterns in the dataset include satire, irony, nuance, and formality / standardization. 
 
