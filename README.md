@@ -4,7 +4,7 @@
 
 This repository is a collection of media sources being used in an experiment for Transformer improvement on sociologically nuanced language patterns. 
 
-The patterns in the dataset include satire, irony, nuance, and formality / standardization. 
+The patterns in the dataset include irony, cultural standardization, implicit meaning, insincerity, & mixed sentiment 
 
 ## 📚 Research Foundation
 
