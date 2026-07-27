@@ -1,4 +1,4 @@
-# Dataset Curation for Improved Transformer Performance on Sociologically Complex Language Patterns
+# Curated Dataset
 
 ## 📋 Overview
 
