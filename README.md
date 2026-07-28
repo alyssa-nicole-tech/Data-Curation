@@ -39,7 +39,7 @@ This collection is grounded in:
 ### 📄 Locate Data Ingestion Module
 
 Repository location:
-`data_ingestion/`
+Media Sources
 
 1. Identify the media source category relevant to your needs
 2. Access the provided URLs and extract relevant text/data
