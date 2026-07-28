@@ -38,14 +38,10 @@ This collection is grounded in:
 
 ### 📄 Locate Data Ingestion Module
 
-Repository location:
-Media Sources
-
 1. Identify the media source category relevant to your needs
 2. Access the provided URLs and extract relevant text/data
 3. Apply your processing pipeline (tokenization, embedding, training, etc.)
-4. Reference the included methodology documentation for best practices
-5. Evaluate model performance against the target language complexity metrics
+4. Evaluate model performance against the target language complexity metrics
 
 ## 📝 Examples of Resources you will find:
 
