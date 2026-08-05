@@ -11,7 +11,7 @@ This collection is grounded in:
 - **Cognitive science** — Understanding of human language comprehension and nuance
 - **NLP methodologies** — Best practices in training semantic technologies
 
-## 📚 Types of Media Sources Included
+## 📚 Types of Linguistic Data Included
 
 - **Satirical content** — News satire, comedic commentary, and ironic material
 - **Ironic language** — Subtle irony, sarcasm, and contextual language patterns
@@ -27,6 +27,7 @@ This collection is grounded in:
 - **Statistical Modeling** — Building robust language models
 - **Heuristic Evaluations** — Testing model performance on nuanced language patterns
 - **Performance Benchmarking** — Measuring acquisition of sociologically complex language understanding
+- **Retrieval Interpretation Layer for RAG-** — fine tune LLMs for nuanced interpretation of retrieved chunks
 
 **Last Updated**: July 24, 2026
 **Maintainer**: alyssanicoletech-cyberstar
