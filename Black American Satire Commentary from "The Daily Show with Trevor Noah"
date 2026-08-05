@@ -1,5 +1,15 @@
 This is a curated collection of URL references for Black American Satire Commentary from "The Daily Show with Trevor Noah": 
 
+Core Language Patterns exemplified in this list: cultural ambiguity, cultural identity, social identity, emotional ambiguiity, tonal shifts, contextual layering, emotional layering, word emphasis, irony, mixed-sentiment, sarcasm, exaggeration, inversion, contradiction, mixed-sentiment, cultural identity, rhetorical intent
+
+Supervised Training Goals 
+
+Language Model understanding rhetorical intent; satire, irony, rhetorical devices
+Language Model producing identity nuance; identity-tagging
+Language Model detecting satire content; rhetorical intent tags (mocking, critiquing, exposing, subverting)
+Language Mpdel produces context-rich interpretations; topic, event, cultural reference synthesis
+Language Model approaches cultural identity with nuance; diversify language structures and cultural metadata labels
+
 ## How to Navigate the Repository
 
 1. **Browse URL Lists** — Each directory or file contains organized media source URLs
@@ -8,50 +18,12 @@ This is a curated collection of URL references for Black American Satire Comment
 
 ## 🔧 How to Use These Sources
 
-### 📄 Locate Data Ingestion Module
-
 1. Identify the media source category relevant to your needs
 2. Access the provided URLs and extract relevant text/data
-3. Apply your processing pipeline (tokenization, embedding, training, etc.)
+3. Integrate urls into your NLP processing pipeline use in llm training pipeline 
 4. Evaluate model performance against the target language complexity metrics
 
-## 📖 Usage Guidelines
-
-## 📄 License: This dataset includes selections from commercial news sites and public media figures. It can only be used ethically and legally used for academic discovery purposes.
-## ❓ FAQ
-
-**Q: How current are these sources?**
-A: Sources are curated regularly; check individual file dates for last updates.
-
-**Q: Are commercial uses allowed?**
-A: Check individual source licensing; this repository links to existing media.
-
-**Q: How do I cite this collection?**
-A: Cite the repository along with specific sources you utilized.
-
-## 📞 Support & Questions
-
-For questions about:
-- **Source selection** — See the methodology documentation
-- **Usage guidance** — Check individual README files
-- **Contributions** — Open an issue or submit a PR
-
-Core Language Patterns Exemplified in this Set: cultural ambiguity, cultural identity, social identity, emotional ambiguiity, tonal shifts, contextual layering, emotional layering, word emphasis, irony, mixed-sentiment, sarcasm, exaggeration, inversion, contradiction, mixed-sentiment, cultural identity, rhetorical intent
-
-Problems mitigated by this set
-Language Model misclassifies information as factual claims due to misunderstanding rhetorical intent; need for training in satire, irony, rhetorical devices
-Language Model reproduces harmful associations with identity nuance; identity-tagging
-Language Model surfaces stereoype from satire content; rhetorical intent tagging as mocking, critiquing, exposing, subverting
-Language Mpdel produces context-less interpretations; contextual metadata-topic, event, cultural reference
-Language Model produces generations without identity nuance
-Language Model overfits to one cultural identity in generation style; diversify language structures and label with metadata
-
-Problems created by this set:
-Political Bias; the commentary from black comedians leans liberal or progressive
-Lack of Identity Representation; the commentary in the dataset does not represent black american moderate, nuetral, or conservative viewpoints
-
-Advice:
-Use this for social nuance training, in additiona with political reasoning commentary datasets that represent multiple identites
+## 📖 Usage Guidelines: This dataset includes selections from commercial news sites and public media figures. It can only be used ethically and legally used for academic discovery purposes.
 
 Roy Wood Jr. Explores Gentrification in Brooklyn | The Daily Show; https://youtu.be/kbkLi2kC5Ig?si=IHEBBUN-Ei2X04hU
 Some See Culture, Some See Racism: The Daily Show; https://www.youtube.com/watch?v=rUZL4z5Drcw
