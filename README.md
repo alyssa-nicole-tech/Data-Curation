@@ -20,7 +20,7 @@ This collection is grounded in:
 - **Multilingual sources** — Diverse language examples across different linguistic contexts
 - **Linguistic research materials** — Academic sources on language complexity and interpretation
 
-## 📚 GenAI Applications
+## 📚 GenAI Training Applications
 
 - **NLP Model Training** — Improving Transformer models' understanding of complex language
 - **Semantic Analysis** — Enhancing semantic technology systems
