@@ -1,14 +1,37 @@
-This is a curated collection of URL references for Black American Satire Commentary from "The Daily Show with Trevor Noah": 
+This dataset is for socio-cultural nuance in GenAI model training
 
-Core Language Patterns exemplified in this list: cultural ambiguity, cultural identity, social identity, emotional ambiguiity, tonal shifts, contextual layering, emotional layering, word emphasis, irony, mixed-sentiment, sarcasm, exaggeration, inversion, contradiction, mixed-sentiment, cultural identity, rhetorical intent
+The goals for Transformer training are pattern recognition 
+in datasets with irony, cultural standardization, implicit meaning, insincerity, & mixed sentiment. 
 
-Supervised Training Goals 
+## 📚 Research Foundation
 
-Language Model understanding rhetorical intent; satire, irony, rhetorical devices
-Language Model producing identity nuance; identity-tagging
-Language Model detecting satire content; rhetorical intent tags (mocking, critiquing, exposing, subverting)
-Language Mpdel produces context-rich interpretations; topic, event, cultural reference synthesis
-Language Model approaches cultural identity with nuance; diversify language structures and cultural metadata labels
+This collection is grounded in:
+- **Linguistics research** — Study of complex language patterns and interpretation
+- **Cognitive science** — Understanding of human language comprehension and nuance
+- **NLP methodologies** — Best practices in training semantic technologies
+
+## 📚 Types of Linguistic Data Included
+
+- **Satirical content** — News satire, comedic commentary, and ironic material
+- **Ironic language** — Subtle irony, sarcasm, and contextual language patterns
+- **Nuanced discourse** — Complex, layered communication and implicit meaning
+- **Professional communication** — Technical writing, business language, and formal discourse
+- **Multilingual sources** — Diverse language examples across different linguistic contexts
+- **Linguistic research materials** — Academic sources on language complexity and interpretation
+
+## 📚 GenAI Training Applications
+
+- **NLP Model Training** — Improving Transformer models' understanding of complex language
+- **Semantic Analysis** — Enhancing semantic technology systems
+- **Statistical Modeling** — Building robust language models
+- **Heuristic Evaluations** — Testing model performance on nuanced language patterns
+- **Performance Benchmarking** — Measuring acquisition of sociologically complex language understanding
+- **Retrieval Interpretation Layer for RAG-** — fine tune LLMs for nuanced interpretation of retrieved chunks
+
+This is a curated collection of URL references with Black American Satire Commentary from "The Daily Show with Trevor Noah": 
+
+Some core socio-linguistic patterns exemplified in this list are cultural nuance, social nuance, emotional nuance, tonal shifts,
+contextual layering, emotional layering, word emphasis, irony, mixed-sentiment, sarcasm, exaggeration, inversion, contradiction, mixed-sentiment, cultural identity, rhetorical intent
 
 ## How to Navigate the Repository
 
@@ -18,12 +41,13 @@ Language Model approaches cultural identity with nuance; diversify language stru
 
 ## 🔧 How to Use These Sources
 
-1. Identify the media source category relevant to your needs
+1. Identify the media source relevant to your needs
 2. Access the provided URLs and extract relevant text/data
 3. Integrate urls into your NLP processing pipeline use in llm training pipeline 
 4. Evaluate model performance against the target language complexity metrics
 
-## 📖 Usage Guidelines: This dataset includes selections from commercial news sites and public media figures. It can only be used ethically and legally used for academic discovery purposes.
+## 📖 Usage Guidelines: This dataset includes selections from commercial news sites and public media figures. 
+Therefore, it can only be used for academic purposes.
 
 Roy Wood Jr. Explores Gentrification in Brooklyn | The Daily Show; https://youtu.be/kbkLi2kC5Ig?si=IHEBBUN-Ei2X04hU
 Some See Culture, Some See Racism: The Daily Show; https://www.youtube.com/watch?v=rUZL4z5Drcw
